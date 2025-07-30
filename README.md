@@ -1,2 +1,2 @@
-# test124
+# test
 Checking GIT operations
